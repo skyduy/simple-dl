@@ -23,7 +23,7 @@ import scipy.sparse
 import scipy.optimize
 import matplotlib.pyplot as plt
 from sklearn.externals import joblib
-from SparseAutoEncoder.SAE import SparseAutoEncoder
+from SparseAutoencoder.SAE import SparseAutoEncoder
 from SoftmaxRegression.SR import SoftmaxRegression
 from utils import load_mnist_images, load_mnist_labels, display_network
 
