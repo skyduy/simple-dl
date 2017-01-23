@@ -11,7 +11,7 @@ Dependence：
 ## Description 
     TIP: The first seven are the UFLDL exercises implement in python.
     
-####SparseAutoEncoder
+####SparseAutoencoder
  - Sparse autoencoder.
  - 稀疏自编码
    
