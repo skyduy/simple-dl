@@ -10,7 +10,7 @@
         4、将各层结合起来并进行微调。
 
     此处，进行预训练的数据就是带标注的数据。
-    若直接softmax分类，即与文件夹SoftmaxRegression一致，准确率为92
+    若直接softmax分类，即与文件夹SoftmaxRegression一致，准确率为92.6%
     这里微调前准确率为88 %，微调后准确率为98%。
     ~~~~~~~~~~~~~~~~~~~~~~~~~~
     Author: YuJun <cuteuy@gmail.com>
