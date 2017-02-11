@@ -1,5 +1,5 @@
 # simple-dl
-Deep Learning related code examples. (Including the exercises of UFLDL)
+Deep Learning related code examples.
 
 Dependence：
 [Numpy](http://www.numpy.org/)
@@ -9,8 +9,9 @@ Dependence：
 
 
 ## Description 
-    TIP: The first seven are the UFLDL exercises implement in python.
-    
+   TIP: These are the UFLDL exercises implement in python.
+   
+   Move to [skyduy/DeepLearningTutorials](https://github.com/skyduy/DeepLearningTutorials) for more knowledge.
 ####SparseAutoencoder
  - Sparse autoencoder.
  - 稀疏自编码
@@ -50,5 +51,5 @@ Dependence：
     - Advanced Topics of UFLDL
         - Sparse Coding
         - ICA Style Models
-    - Other deep learning related code.
+    - ~~Other deep learning related code.~~: [skyduy/DeepLearningTutorials](https://github.com/skyduy/DeepLearningTutorials)
   
